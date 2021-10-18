@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Subject Occupations_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: ce71eec090ba3324bb2a5178f2554953, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 61772189696
+    m_Localized: Cuidador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12911676805120
+    m_Localized: Carteiro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12945566781440
+    m_Localized: Stripper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12986012454912
+    m_Localized: Aposentado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13025464078336
+    m_Localized: Jogador de Futebol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13090488373248
+    m_Localized: "Veterin\xE1ria"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13142984282112
+    m_Localized: Engenheiro Espacial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13216191664128
+    m_Localized: Padeiro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13269530628096
+    m_Localized: Historiador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13339869106176
+    m_Localized: Ativista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13479577178112
+    m_Localized: Dentista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13521071427584
+    m_Localized: Eletricista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13550603522048
+    m_Localized: "Empres\xE1rio "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13613362892800
+    m_Localized: "Ca\xE7ador"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13786587648000
+    m_Localized: Lixeiro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13845408567296
+    m_Localized: "Volunt\xE1rio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13884092633088
+    m_Localized: Presidente
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13926719344640
+    m_Localized: Piloto Espacial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14138053545984
+    m_Localized: Piloto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14195184160768
+    m_Localized: Cientista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14235986350080
+    m_Localized: "Gar\xE7om"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14292487819264
+    m_Localized: "Homem Pr\xE9-hist\xF3rico"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

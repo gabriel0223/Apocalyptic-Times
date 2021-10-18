@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Card Situations_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 707d54ebb7a9e5b41acff6940bd88347, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 161890226176
+    m_Localized: "O cuidador do le\xE3o do Zool\xF3gico Central esqueceu de aliment\xE1-lo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983096537088
+    m_Localized: "Carlos distribui drogas il\xEDcitas por tr\xEAs bairros diferentes,
+      podendo se tornar o maior traficante da cidade em dois anos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58868774785024
+    m_Localized: "Esta noite Gabriel ter\xE1 rela\xE7\xF5es com a prefeita da cidade,
+      ela j\xE1 possui uma idade avan\xE7ada e isso pode acarretar em um ataque card\xEDaco."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58916719874048
+    m_Localized: "Sr. Frederiksen sofre de esquizofrenia e atualmente pendura bal\xF5es
+      no telhado de sua resid\xEAncia sem motivo. Daqui uma semana ela ir\xE1 sequestrar
+      uma crian\xE7a asi\xE1tica."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59069497397248
+    m_Localized: "Chris ir\xE1 chutar um cachorro que invadir\xE1 o campo no meio
+      de um p\xEAnalti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59134651715584
+    m_Localized: "Jully criar\xE1 um v\xEDcio ao utilizar rem\xE9dios espec\xEDficos
+      para pets em si mesma, o que a levar\xE1 a se apaixonar por uma ovelha."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59210170159104
+    m_Localized: Wababa nula guru apaga no bacana samsung galaxy, nissan toshiba
+      senpai.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59261164507136
+    m_Localized: "Bruno derrubar\xE1 esta manh\xE3 uma garrafa de detergente na massa
+      do p\xE3o que ir\xE1 vender, causando intoxica\xE7\xE3o alimentar em todos
+      que consumirem a massa."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59803282493440
+    m_Localized: "Jones ser\xE1 respons\xE1vel por achar um antigo templo ast\xE9ca,
+      onde encontrar\xE1 um antigo imperador mumificado que ganhar\xE1 vida."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59849180762112
+    m_Localized: "Joana atacar\xE1 um General do ex\xE9rcito, pois ela \xE9 contra
+      o poder, por\xE9m ele era respons\xE1vel por levar toneladas de comida para
+      as regi\xF5es mais afetadas pela fome."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59904889507840
+    m_Localized: "O Doutor atender\xE1 um cliente com caninos salientes, confundindo-o
+      com um vampiro, trazendo \xE0 tona seu passado de ca\xE7ador."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59992592404480
+    m_Localized: "Sr. Chang ir\xE1 agredir com kung fu colegas de classe de um garoto
+      afrodescendente em um beco, pois \xE9 alco\xF3latra."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60071998967808
+    m_Localized: "Nemo presenciar\xE1 a morte de seus pais por um pinguim na sa\xEDda
+      de um teatro aqu\xE1tico, futuramente tornando-se um justiceiro de Atlantis."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60124792672256
+    m_Localized: "Tirano sofre bullying constantemente dos Pterod\xE1ctilos, devido
+      ao tamanho de seus bra\xE7os, o que ocasionar\xE1 em depress\xE3o e forte crise
+      de ansiedade."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60181902315520
+    m_Localized: "Ricardo vai esquecer de subir a tampa da ca\xE7amba do caminh\xE3o
+      de lixo, deixando cair v\xE1rios res\xEDduos durante o trajeto do caminh\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60262344871936
+    m_Localized: "O rato ser\xE1 submetido a diversos testes em laborat\xF3rio para
+      produ\xE7\xE3o de uma nova droga que ocasiona alucina\xE7\xF5es espec\xEDficas
+      sobre castelos e princesas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60342749679616
+    m_Localized: "O presidente McJump ir\xE1 abrir uma vota\xE7\xE3o popular para
+      definir sua pr\xF3xima cor de cabelo. A vota\xE7\xE3o ocasionar\xE1 uma guerra
+      civil."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60415881564160
+    m_Localized: "Mark foi contratado por uma empresa de transporte aliment\xEDcio
+      espacial para levar suprimentos aos astronautas que residem em Marte, por\xE9m,
+      ningu\xE9m estava no planeta para receber os suprimentos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60483502133248
+    m_Localized: "O avi\xE3o do Capit\xE3o Sully ir\xE1 sofrer uma queda em uma ilha
+      misteriosa, sendo Sully o \xFAnico sobrevivente. A ilha \xE9 povoada apenas
+      por amazonas que dizem serem criadas pelos deuses, e estavam \xE0 espera de
+      um amor dos c\xE9us. Sully \xE9 casado."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60550027988992
+    m_Localized: "No ano de 2131 o Dr. Pelop\xF3polis descobrir\xE1 um novo combust\xEDvel
+      altamente perigoso que mudar\xE1 o destino do planeta Terra."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60624149729280
+    m_Localized: "O prot\xF3tipo de n\xFAmero de s\xE9rie 667i9 ir\xE1 voltar do
+      seu trabalho um pouco mais cedo e ir\xE1 flagrar sua esposa de n\xFAmero 774i8
+      na cama com o prot\xF3tipo de n\xFAmero 33247i66."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60704323850240
+    m_Localized: HOO HA HA HOOO HA HOO HO HO HO HA HAAHA HO HOO HAHOHAHOHAHAHO HA
+      HOOO HA HOOHOO
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-English (en)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-English (en)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 68c370d1d6a87f5419625bb9da29ee98
+  m_SerializeEntries:
+  - m_GUID: 950cc77514343ad408488fc23a274d5c
+    m_Address: Card Situations_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: aa0efe8b2b303e84b9e22354d3ef8eef
+    m_Address: Subject Ages_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 505fc7ef6db0103438b6ad0249755d3d
+    m_Address: Subject Occupations_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 18cf6c093cf92f442a8266596c9a540a
+    m_Address: Card Choices_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: 5e8afe39f28c328459da995ec26506b3
+    m_Address: Subject Names_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  - m_GUID: e54cb1f51f301bd49bc2681624f7b0bc
+    m_Address: Apocalypses_en
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-en
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 1ebbae63adbe8a14ea8149ddab4d4f3d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d5a5b9489a39897499348866e04c30dc, type: 2}
+    - {fileID: 11400000, guid: db6e8168548656142b4189b22d6eb29d, type: 2}

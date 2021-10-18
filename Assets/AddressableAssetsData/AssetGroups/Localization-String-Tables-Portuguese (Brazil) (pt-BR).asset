@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Portuguese (Brazil) (pt-BR)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Portuguese (Brazil) (pt-BR)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a348b24fc86e086409a3b81f452b3639
+  m_SerializeEntries:
+  - m_GUID: 2c9d7e256a4dfd14d8932d63f5b08760
+    m_Address: Card Situations_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+  - m_GUID: b9f949c8b75a3dd45b3fa24e65197601
+    m_Address: Subject Ages_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+  - m_GUID: 6269515f851cacb4fa9f20a3b623d6cb
+    m_Address: Subject Occupations_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+  - m_GUID: 4a051dae389b19241a84225b969037ea
+    m_Address: Card Choices_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+  - m_GUID: 350e0b1995c2d064c98e2eace893f5ec
+    m_Address: Subject Names_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+  - m_GUID: 0544cc267f5534e439648c456d6f2afc
+    m_Address: Apocalypses_pt-BR
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-pt-BR
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 1ebbae63adbe8a14ea8149ddab4d4f3d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ccca63000537d3446b4cd19c619187ab, type: 2}
+    - {fileID: 11400000, guid: 6d120f849783a0245a019f95ed691e1a, type: 2}

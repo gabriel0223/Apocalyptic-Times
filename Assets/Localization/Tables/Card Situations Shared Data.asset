@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Card Situations Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Card Situations
+  m_TableCollectionNameGuidString: 707d54ebb7a9e5b41acff6940bd88347
+  m_Entries:
+  - m_Id: 161890226176
+    m_Key: 01-Lion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983096537088
+    m_Key: 02-Carlos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58868774785024
+    m_Key: 03-Gabriel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58916719874048
+    m_Key: 04-Frederiksen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59069497397248
+    m_Key: 05-Chris
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59134651715584
+    m_Key: 06-Dolittle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59210170159104
+    m_Key: 07-Utchutchu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59261164507136
+    m_Key: 08-Bruno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59803282493440
+    m_Key: 09-Texas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59849180762112
+    m_Key: 10-Joana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59904889507840
+    m_Key: 11-Dr Van
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59992592404480
+    m_Key: 12-Jackie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60071998967808
+    m_Key: 13-Nemo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60124792672256
+    m_Key: 14-Tyranno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60181902315520
+    m_Key: 15-Ricardo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60262344871936
+    m_Key: 16-Mouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60342749679616
+    m_Key: 17-McJump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60415881564160
+    m_Key: 18-Mark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60483502133248
+    m_Key: 19-Sully
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60550027988992
+    m_Key: 20-Dr Pelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60624149729280
+    m_Key: 21-Robot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60704323850240
+    m_Key: 22-UgaUga
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1627516443033

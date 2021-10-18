@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Card Situations_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 707d54ebb7a9e5b41acff6940bd88347, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 161890226176
+    m_Localized: 'The lion''s caretaker at the Central Zoo forgot to feed it.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2983096537088
+    m_Localized: 'Carlos distributes illegal drugs to three different neighborhoods.
+      He could become the biggest drug dealer in town in two years.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58868774785024
+    m_Localized: 'Tonight Gabriel will have relations with the mayor of the city.
+      She is already at an advanced age and this could lead to a heart attack.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58916719874048
+    m_Localized: Mr. Frederiksen suffers from schizophrenia and currently hangs balloons
+      on the roof of his residence for no reason. In a week, he will kidnap an Asian
+      child.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59069497397248
+    m_Localized: Chris will kick a dog that will invade the field in the middle of
+      a penalty kick.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59134651715584
+    m_Localized: "Jully will get addicted by using pet-specific remedies on herself,
+      which will lead her to fall in love with a sheep.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59210170159104
+    m_Localized: Wababa nula guru apaga no bacana samsung galaxy, nissan toshiba
+      senpai.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59261164507136
+    m_Localized: This morning Bruno will drop a bottle of detergent into the bread
+      dough that he will sell, causing food poisoning in everyone who consumes the
+      dough.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59803282493440
+    m_Localized: "Jones will be responsible for finding an ancient Aztec temple,
+      where he will find a mummified former emperor who will come to life.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59849180762112
+    m_Localized: Joana will attack an army General, as she is against the power,
+      but he was responsible for taking tons of food to the regions most affected
+      by the famine.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59904889507840
+    m_Localized: The Doctor will see a client with protruding fangs, mistaking him
+      for a vampire, bringing out his hunting past.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59992592404480
+    m_Localized: Mr. Chang will attack with kung fu classmates of an Afro-descendant
+      boy in an alleyway, as he is an alcoholic.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60071998967808
+    m_Localized: Nemo will witness the death of his parents by a penguin on the way
+      out of an aquatic theater, eventually becoming a vigilante for Atlantis.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60124792672256
+    m_Localized: Tyranno is constantly bullied by Pterodactyls due to the size of
+      his arms, which will lead to depression and a strong anxiety crisis.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60181902315520
+    m_Localized: Ricardo will forget to lift the lid of the garbage truck's bucket,
+      dropping various residues during the truck's path.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60262344871936
+    m_Localized: The rat will undergo several laboratory tests to produce a new drug
+      that causes specific hallucinations about castles and princesses.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60342749679616
+    m_Localized: President McJump will open a popular vote to define his next hair
+      color. The voting will lead to civil war.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60415881564160
+    m_Localized: Mark was hired by a space food transport company to deliver supplies
+      to astronauts residing on Mars, however, no one was on the planet to receive
+      the supplies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60483502133248
+    m_Localized: Captain Sully's plane will crash into a mysterious island, with
+      Sully being the only survivor. The island is populated only by Amazons who
+      say they were created by the gods and were waiting for a love from heaven.
+      Sully is married.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60550027988992
+    m_Localized: "In the year 2131, Dr. Pelop\xF3polis will discover a highly dangerous
+      new fuel that will change the fate of planet Earth."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60624149729280
+    m_Localized: The prototype serial number 667i9 will come back from its work a
+      little earlier and will catch his wife number 774i8 in bed with the prototype
+      number 33247i66.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60704323850240
+    m_Localized: HOO HA HA HOOO HA HOO HO HO HO HA HAAHA HO HOO HAHOHAHOHAHAHO HA
+      HOOO HA HOOHOO
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

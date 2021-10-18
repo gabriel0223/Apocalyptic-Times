@@ -1,0 +1,147 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Apocalypses_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 63b7e1406d0b9174db6c11b923d9867b, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 39475269632
+    m_Localized: Vegan groups and organizations managed to standardize the world
+      to no longer consume meat or food of animal origin. These institutions, however,
+      in future ended up creating strict laws not only for the consumption of non-vegan
+      foods, but also forbids the consumption of any plant or living being, forcing
+      humanity to live on water and mineral salts, many people did not survive this
+      strict diet, dying of natural causes, or becoming prey to larger animals.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 456867237888
+    m_Localized: With the melting of glaciers caused by pollution and global warming,
+      humanity unexpectedly ended up unfreezing a mythological being responsible
+      for bringing devastation to the world. He was a gigantic being similar to a
+      lizard that released lightning from its mouth. He started the world's devastation
+      by the Asian continent. But other colossal monsters were also unfrozen, now
+      all these beings are fighting each other and the population is suffering in
+      the midst of these battles.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611209236480
+    m_Localized: Nature is more beautiful than ever. On the other hand, chickens
+      are more ferocious than ever. Concerning the population, there is a ratio of
+      70 chickens to 1 human being. They reproduce very quickly, due to their bodies
+      getting used to Growth Rations after years of consuming them. Now, due to the
+      quantity, they became the living being at the top of the food chain, the humans
+      now take second place.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 743963152384
+    m_Localized: Over the years, humanity spent all the natural resources on the
+      planet. No longer being able to cultivate the soil or raise animals, the rivers
+      dried up and there is only saltwater. One day, a man found a sealed MilkyWave,
+      and everyone who witnessed this event began to fight among themselves for the
+      possession of the chocolate, which took extreme proportions, causing the end
+      of humanity due to hunger and violence.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 799348936704
+    m_Localized: Science has evolved in an amazing way, now having scientists with
+      free time, many of these professionals, mainly geneticists, dedicated this
+      leisure time to studying the homunculus and its variations. They managed to
+      create these tiny beings, and this new species became a new pest in the world,
+      reproducing quickly and attacking humans, humanity now lives at war with these
+      genetically created beings.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1070154174464
+    m_Localized: The world was stagnant in time, there was no technological or scientific
+      advance, religion replaced science, all the old dogmas and beliefs returned
+      to popularity, especially the ideas of the New England Puritans, bringing up
+      the witch hunt again, where any woman with higher education than elementary
+      school was hunted to death.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1130522791936
+    m_Localized: 'Scientists finally managed to make contact with extraterrestrials,
+      but one of the scientists ended up sending a message with autocorrect problems
+      to these beings. The sentence was: "We will bang the mother of your leader".
+      This clearly offended these intelligent beings, leading to an intergalactic
+      war that will define the fate of the planet Earth.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1238500954112
+    m_Localized: Humanity achieved a technological level until the invention of TokTik,
+      after this discovery any scientific or technological advance was stagnant,
+      those who were not recording content for this platform were watching the videos
+      provided by it, generating a worldwide addiction, where the population became
+      a slave to this shallow entertainment of short videos, which make people lose
+      track of the time invested there.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1324769398784
+    m_Localized: 'After years of extreme violence in the world, at one point everything
+      collapsed.
+
+      It all started when an elderly woman and a pregnant woman
+      had a disagreement about which one would have the preference to occupy the
+      seat of the bus, the ladies then entered into a physical conflict, which led
+      to collective hysteria, bringing out people''s most primitive instincts, triggering
+      a civil war and, in the future, the World War III.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1464091594752
+    m_Localized: For years we discussed the superiority of capitalism or communism,
+      now we have a satisfactory economic model that meets all human needs. However,
+      the world became too safe and monotonous, leading to collective boredom, drastically
+      increasing the population's suicide and self-mutilation rates, currently, humanity
+      has reduced 60% of its population due to this situation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1563358187520
+    m_Localized: The violence reached such a critical state that it made people create
+      the costume of attacking domestic animals for fun, this infuriated the skies
+      as this is an unforgivable act, causing the trumpet of the apocalypse to sound
+      and the four horsemen descend to earth and spread chaos in the world, eternally
+      torturing those who assaulted the beautiful and cute helpless animals.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1695545872384
+    m_Localized: After years without violence, the world was, in the end, pure and
+      ideal for the return of our savior, it was then that the heavens opened and
+      from the midst of a strong light, with a majestic presence, comes back to earth
+      the man who will guide humanity to a future of light and riches, without disease
+      and without sin, where everyone would be accepted and loved.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4956470431744
+    m_Localized: Shit...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7011218018304
+    m_Localized: "Dear employee,\nYou caused an apocalypse! \r\nThank you for your
+      collaboration. Your efforts helped this timeline through {score} potential
+      threats!\r\nUnfortunately, you and your timeline will be destroyed.\r\nTake
+      your payment on the way out."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00d0286d60060000

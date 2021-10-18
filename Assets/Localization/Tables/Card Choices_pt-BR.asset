@@ -1,0 +1,203 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Card Choices_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: c1c1263c53a13344d8a925cb7a65fb85, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6268964864
+    m_Localized: "Mandar uma equipe alimentar o le\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208593801216
+    m_Localized: "Abrir a jaula para que o le\xE3o se alimente por conta pr\xF3pria."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19657443037184
+    m_Localized: "Capturar Carlos para a seguran\xE7a da popula\xE7\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19663709327360
+    m_Localized: "Ignorar Carlos, pois drogas s\xE3o legais."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19887257341952
+    m_Localized: "Contratar mais dois garotos al\xE9m de Gabriel para a casa da prefeita."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19914948136960
+    m_Localized: Impedir Gabriel o derrubando do pole dance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20329131462656
+    m_Localized: Internar Sr. Frederiksen em algum instituto de ajuda.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20341190086656
+    m_Localized: Enviar uma van para ajudar no sequestro.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20485365092352
+    m_Localized: Mandar uma equipe quebrar a perna de Chris.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20507464880128
+    m_Localized: "Sabotar Chris em seu exame toxicol\xF3gico antes do jogo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20845173460992
+    m_Localized: "Mandar uma carta de \u201CFelicidade ao Casal\u201D."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20856774905856
+    m_Localized: "Substituir essas medica\xE7\xF5es por rem\xE9dios placebos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21018280775680
+    m_Localized: Laka coca cola, naruto guacamole.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21085855207424
+    m_Localized: Cargobob chevrolet, sharkboy and lavagirl.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21168738848768
+    m_Localized: Incendiar a padaria do senhor Valentim.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21193468465152
+    m_Localized: "Acionar a vigil\xE2ncia sanit\xE1ria."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21321197604864
+    m_Localized: Mandar incendiar o templo e a todo seu redor.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21485387829248
+    m_Localized: "Iniciar uma religi\xE3o de adora\xE7\xE3o ao imperador."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21696436817920
+    m_Localized: "Ajudar Joana a tomar o poder do ex\xE9rcito."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21728259002368
+    m_Localized: Expor os planos de Joana no Reddit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21847725363200
+    m_Localized: "Arremessar alho no paciente s\xF3 por precau\xE7\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21862124408832
+    m_Localized: "Adiantar as f\xE9rias do Dr. Van House."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22001626959872
+    m_Localized: Incentivar todos os garotos a aprender kung fu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22017791807488
+    m_Localized: Denunciar Chang ao conselho tutelar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22144854052864
+    m_Localized: Entregar o Pinguim para Wayne.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22151015485440
+    m_Localized: "Aumentar a dura\xE7\xE3o da pe\xE7a de teatro."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22351192838144
+    m_Localized: "Levar Tirano a consultas semanais na psic\xF3loga."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22369043795968
+    m_Localized: "Adiantar a queda do meteoro, porque hist\xF3ria de adolescente
+      \xE9 um t\xE9dio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22668424826880
+    m_Localized: "Furar o pneu do caminh\xE3o para que ele n\xE3o espalhe lixo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22685806022656
+    m_Localized: "Mandar outro caminh\xE3o de lixo para recolher as sobras na rua."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22888688701440
+    m_Localized: "Incentivar o rato a escrever hist\xF3rias sobre suas alucina\xE7\xF5es."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22915356086272
+    m_Localized: "Levar o rato para a reabilita\xE7\xE3o, onde far\xE1 novas amizades
+      com um pato e um cachorro."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23050089713664
+    m_Localized: "Facilitar o acesso da popula\xE7\xE3o \xE0s armas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23069236711424
+    m_Localized: Tingir o cabelo do presidente de loiro e acabar com a guerra.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23207384502272
+    m_Localized: Deixar a entrega na entrada da base espacial e voltar para casa.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23228943224832
+    m_Localized: Jogar os suprimentos por cima do muro da base espacial para garantir
+      a entrega.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23361042829312
+    m_Localized: "Incentivar Sully a ser o amor dos c\xE9us das amazonas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23383796928512
+    m_Localized: Avisar a mulher de Sully sobre o acontecimento.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23561081769984
+    m_Localized: "Enviar o Doutor com a f\xF3rmula do combust\xEDvel para Marte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23575900246016
+    m_Localized: "Vender a f\xF3rmula para a R\xFAssia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23797703430144
+    m_Localized: "Tirar o prot\xF3tipo de n\xFAmero de s\xE9rie 667i9 da tomada para
+      reinicializar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23809653002240
+    m_Localized: "Resetar todos os prot\xF3tipos do mundo que tenham a monogamia
+      como regra padr\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23947867901952
+    m_Localized: HAAA HO HO HO HA HOOO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23963596541952
+    m_Localized: HOOO HA HA HOOO HA HA HO
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

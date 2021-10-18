@@ -1,0 +1,203 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Card Choices Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Card Choices
+  m_TableCollectionNameGuidString: c1c1263c53a13344d8a925cb7a65fb85
+  m_Entries:
+  - m_Id: 6268964864
+    m_Key: 01(Up)-Lion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208593801216
+    m_Key: 01(Down)-Lion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19657443037184
+    m_Key: 02(Up)-Carlos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19663709327360
+    m_Key: 02(Down)-Carlos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19887257341952
+    m_Key: 03(Up)-Gabriel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19914948136960
+    m_Key: 03(Down)-Gabriel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20329131462656
+    m_Key: 04(Up)-Frederiksen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20341190086656
+    m_Key: 04(Down)-Frederiksen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20485365092352
+    m_Key: 05(Up)-Chris
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20507464880128
+    m_Key: 05(Down)-Chris
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20845173460992
+    m_Key: 06(Up)-Dolittle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20856774905856
+    m_Key: 06(Down)-Dolittle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21018280775680
+    m_Key: 07(Up)-Utchutchu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21085855207424
+    m_Key: 07(Down)-Utchutchu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21168738848768
+    m_Key: 08(Up)-Bruno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21193468465152
+    m_Key: 08(Down)-Bruno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21321197604864
+    m_Key: 09(Up)-Texas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21485387829248
+    m_Key: 09(Down)-Texas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21696436817920
+    m_Key: 10(Up)-Joana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21728259002368
+    m_Key: 10(Down)-Joana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21847725363200
+    m_Key: 11(Up)-Dr Van
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21862124408832
+    m_Key: 11(Down)-Dr Van
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22001626959872
+    m_Key: 12(Up)-Jackie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22017791807488
+    m_Key: 12(Down)-Jackie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22144854052864
+    m_Key: 13(Up)-Nemo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22151015485440
+    m_Key: 13(Down)-Nemo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22351192838144
+    m_Key: 14(Up)-Tyranno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22369043795968
+    m_Key: 14(Down)-Tyranno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22668424826880
+    m_Key: 15(Up)-Ricardo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22685806022656
+    m_Key: 15(Down)-Ricardo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22888688701440
+    m_Key: 16(Up)-Mouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22915356086272
+    m_Key: 16(Down)-Mouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23050089713664
+    m_Key: 17(Up)-McJump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23069236711424
+    m_Key: 17(Down)-McJump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23207384502272
+    m_Key: 18(Up)-Mark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23228943224832
+    m_Key: 18(Down)-Mark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23361042829312
+    m_Key: 19(Up)-Sully
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23383796928512
+    m_Key: 19(Down)-Sully
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23561081769984
+    m_Key: 20(Up)-Dr Pelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23575900246016
+    m_Key: 20(Down)-Dr Pelo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23797703430144
+    m_Key: 21(Up)-Robot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23809653002240
+    m_Key: 21(Down)-Robot
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23947867901952
+    m_Key: 22(Up)-UgaUga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23963596541952
+    m_Key: 22(Down)-UgaUga
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1627526650938

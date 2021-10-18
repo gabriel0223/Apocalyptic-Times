@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Subject Ages_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 500e317e3863a7144b2929fb34966c62, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 10089975808
+    m_Localized: 35 years old
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10147781464064
+    m_Localized: 35 years old
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10170271322112
+    m_Localized: 80 years old
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10167259811840
+    m_Localized: 27 years old
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10176231428096
+    m_Localized: 28 years old
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10178970308608
+    m_Localized: 23 years old
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10180660613120
+    m_Localized: 400 lightyears
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10181285564416
+    m_Localized: 45 years old
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10182019567616
+    m_Localized: 34 years old
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10182795513856
+    m_Localized: 18 years old
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10183433048064
+    m_Localized: 41 years old
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10184217382912
+    m_Localized: 67 years old
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10184875888640
+    m_Localized: 27 years old
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10185702166528
+    m_Localized: 1.500.000 years b.c
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10186427781120
+    m_Localized: 26 years old
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10187178561536
+    m_Localized: 32 weeks old
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10187925147648
+    m_Localized: 50 years old
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10188738842624
+    m_Localized: 37 years old
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10189548343296
+    m_Localized: 42 years old
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10191167344640
+    m_Localized: 58 years old
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11550415441920
+    m_Localized: 20 years old
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11555679293440
+    m_Localized: 1.200.000 years b.c
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

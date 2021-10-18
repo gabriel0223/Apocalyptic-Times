@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &698343399530647332
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 698343399530647338}
+  - component: {fileID: 698343399530647333}
+  m_Layer: 0
+  m_Name: Audio Manager Asset
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &698343399530647338
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 698343399530647332}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -7.0439935, y: -0.50562036, z: -1.8115042}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &698343399530647333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 698343399530647332}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98f206d35b4c90345b6eee0703395d7e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: CardMove01
+    clip: {fileID: 8300000, guid: 85222282155d8654c94e06f355d1154a, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: CardMove02
+    clip: {fileID: 8300000, guid: 8df1e0d3eab97734db1de54d9739e8f7, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: CardMove03
+    clip: {fileID: 8300000, guid: 02459d7f63b90ef4b9bea5c71d70be68, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: CardMove04
+    clip: {fileID: 8300000, guid: 89a89dcbc63dd1742a37970001abeb6a, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: CardMove05
+    clip: {fileID: 8300000, guid: 989f1fd4bb6b5e54aaae8b222a3ea38b, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Led01
+    clip: {fileID: 8300000, guid: 7fa2225091589144fbbe3dbc02f15aab, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Led02
+    clip: {fileID: 8300000, guid: 19edf01713c2b894984869b174d8fe33, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Led03
+    clip: {fileID: 8300000, guid: 599867aaf76a78849bc3a3fe803103a2, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Led04
+    clip: {fileID: 8300000, guid: eb9b2d6e9b42999419e501c50e64edc0, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Led05
+    clip: {fileID: 8300000, guid: 9404aefef512ad5409516c7d51d22152, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Led06
+    clip: {fileID: 8300000, guid: c7fe8d043334afd408b8203ac165181f, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: Led07
+    clip: {fileID: 8300000, guid: 5d961ad650e029d4d91398bcb60a9bbf, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: PostIt01
+    clip: {fileID: 8300000, guid: 5bc1bac7b6c4ccb40acb7be5ea9ea8d3, type: 3}
+    volume: 0.5
+    pitch: 1.5
+    loop: 0
+    source: {fileID: 0}
+  - name: PostIt02
+    clip: {fileID: 8300000, guid: c7bdca1e5c4c6474abcce7b4d02dea95, type: 3}
+    volume: 0.5
+    pitch: 1.5
+    loop: 0
+    source: {fileID: 0}
+  - name: PostIt03
+    clip: {fileID: 8300000, guid: ce8ab20908d76c044b6fe4f1d70ed4cb, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: PostIt04
+    clip: {fileID: 8300000, guid: a859fb04eaf584b4790182269465c50d, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: ManualAbrindo
+    clip: {fileID: 8300000, guid: 1f94ce564f2518943aa7848b180890b2, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: MaquinaLoop
+    clip: {fileID: 8300000, guid: ecbd1c0ad123cde49a94fee63dcbff94, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: ManualHover
+    clip: {fileID: 8300000, guid: e9e59d6a8f2cd134cbb7637cbc0fa80a, type: 3}
+    volume: 0.5
+    pitch: 3
+    loop: 0
+    source: {fileID: 0}
+  - name: MenuButtonPress
+    clip: {fileID: 8300000, guid: 856b20148c79ab94eb43a40e9f35fbc0, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: BGM
+    clip: {fileID: 8300000, guid: eb69b3c6a31a4a54e99838f002089c78, type: 3}
+    volume: 0.2
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: MaquinaLigar
+    clip: {fileID: 8300000, guid: 466435f93ef35c248a980db77386e6fb, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+  - name: TicTac
+    clip: {fileID: 8300000, guid: 651bb4f381562b3458a5ef207e2181a4, type: 3}
+    volume: 0.2
+    pitch: 0.7
+    loop: 1
+    source: {fileID: 0}
+  musicPlaying: 

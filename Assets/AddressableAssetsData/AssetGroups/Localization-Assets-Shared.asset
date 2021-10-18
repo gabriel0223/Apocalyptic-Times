@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 87968a3388d91404bbd0372ba72fbc6c
+  m_SerializeEntries:
+  - m_GUID: 707d54ebb7a9e5b41acff6940bd88347
+    m_Address: Assets/Localization/Tables/Card Situations Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 3ca028a0ba3360a43b081df6f68df16b
+    m_Address: Assets/Localization/Tables/Subject Names Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 500e317e3863a7144b2929fb34966c62
+    m_Address: Assets/Localization/Tables/Subject Ages Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: ce71eec090ba3324bb2a5178f2554953
+    m_Address: Assets/Localization/Tables/Subject Occupations Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: c1c1263c53a13344d8a925cb7a65fb85
+    m_Address: Assets/Localization/Tables/Card Choices Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 63b7e1406d0b9174db6c11b923d9867b
+    m_Address: Assets/Localization/Tables/Apocalypses Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: a6133f51f9f0d8e409ab3feff1061dd7
+    m_Address: Assets/Localization/Tables/Textures Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 1ebbae63adbe8a14ea8149ddab4d4f3d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8ba8f6b9ba8d6f247ad9512ef2b1ee62, type: 2}
+    - {fileID: 11400000, guid: c537f8b0156bd844d89201e1c42f2aa8, type: 2}

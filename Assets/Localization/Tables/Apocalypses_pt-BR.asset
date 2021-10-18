@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Apocalypses_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 63b7e1406d0b9174db6c11b923d9867b, type: 2}
+  m_Metadata:
+    m_Items:
+    - id: 0
+  m_TableData:
+  - m_Id: 39475269632
+    m_Localized: "Os grupos e organiza\xE7\xF5es veganas, conseguiram padronizar
+      o mundo a n\xE3o consumir mais carnes ou alimentos vindos de origem animal.
+      Essas institui\xE7\xF5es no entanto, futuramente acabaram criando leis severas
+      n\xE3o s\xF3 pelo consumo de alimentos n\xE3o veganos, mas tamb\xE9m proibindo
+      o consumo de qualquer planta ou ser vivo, for\xE7ando a humanidade a viver
+      de \xE1gua e sais minerais, muitas pessoas n\xE3o sobreviveram a essa dieta
+      rigorosa, morrendo de causas naturais, ou virando presas de animais maiores."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 456867237888
+    m_Localized: "Com o derretimento das geleiras causados pela polui\xE7\xE3o e
+      aquecimento global, inesperadamente a humanidade acabou por descongelar um
+      ser mitol\xF3gico respons\xE1vel por trazer a devasta\xE7\xE3o ao mundo, ele
+      era um ser gigantesco semelhante a um lagarto que soltava raios pela boca,
+      ele iniciou a devasta\xE7\xE3o mundial pelo continente asiatico. Por\xE9m outros
+      monstros colossais tamb\xE9m foram descongelados,  agora todos esses seres
+      lutam entre si e a popula\xE7\xE3o est\xE1 sofrendo no meio dessas batalhas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 611209236480
+    m_Localized: "A natureza est\xE1 mais bela do que nunca, j\xE1 as galinhas est\xE3o
+      mais ferozes que nunca, em rela\xE7\xE3o \xE0s popula\xE7\xF5es, h\xE1 uma
+      propor\xE7\xE3o de 70 galinhas para 1 ser humano, elas se reproduzem muito
+      rapidamente, devido ao seu organismo ter se acostumado ap\xF3s anos consumindo
+      ra\xE7\xF5es de crescimento. Agora devido a quantidade elas se tornaram o ser
+      vivo no topo da cadeia alimentar, j\xE1 o humano ficou em segundo lugar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 743963152384
+    m_Localized: "Ao passar dos anos a humanidade gastou todos os recursos naturais
+      do planeta, n\xE3o podendo mais cultivar o solo ou criar animais, os rios secaram
+      e s\xF3 h\xE1 \xE1gua salgada, at\xE9 que um dia, um homem achou um MilkyWave
+      lacrado, e todos que presenciaram este acontecimento come\xE7aram a lutar entre
+      si para ter a posse do chocolate, o que tomou propor\xE7\xF5es extremas, causando
+      o fim da humanidade devido a fome e a viol\xEAncia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 799348936704
+    m_Localized: "A ci\xEAncia evoluiu de forma espantosa, agora havendo cientistas
+      com tempo livre, muitos desses profissionais, principalmente geneticistas,
+      dedicaram esse tempo de desocupa\xE7\xE3o a estudar o homunculus e suas varia\xE7\xF5es.
+      Eles conseguiram criar esses seres min\xFAsculos, e essa nova esp\xE9cie virou
+      uma nova praga no mundo, se reproduzindo rapidamente e atacando os humanos,
+      a humanidade agora vive em guerra com esses seres criados geneticamente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1070154174464
+    m_Localized: "O mundo ficou estagnado no tempo, n\xE3o houve um avan\xE7o tecnol\xF3gico
+      ou cient\xEDfico, a religi\xE3o substituiu totalmente a ci\xEAncia, todos os
+      dogmas e cren\xE7as antigas voltaram a popularidade, principalmente os ideias
+      dos puritanos da Nova Inglaterra, trazendo a tona novamente a ca\xE7a \xE0s
+      bruxas, onde qualquer mulher com escolaridade superior ao ensino fundamental
+      foram ca\xE7adas at\xE9 seu exterm\xEDnio."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1130522791936
+    m_Localized: "Os cientistas finalmente conseguiram fazer contato com extraterrestres,
+      por\xE9m um dos cientistas acabou por enviar uma mensagem com problemas de
+      corretor para esses seres, onde a frase enviada foi: \u201CIremos pegar de
+      jeito a m\xE3e de seu l\xEDder\u201D. O que claramente ofendeu esses seres
+      inteligentes, ocasionando em uma guerra intergal\xE1ctica que definir\xE1 o
+      destino do planeta Terra."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1238500954112
+    m_Localized: "A humanidade chegou em um n\xEDvel tecnol\xF3gico at\xE9 a inven\xE7\xE3o
+      do toktik, ap\xF3s essa descoberta qualquer avan\xE7o cient\xEDfico ou tecnol\xF3gico
+      ficou estagnado, aqueles que n\xE3o estavam gravando conte\xFAdo para essa
+      plataforma, estavam assistindo os v\xEDdeos fornecidos por ela, gerando um
+      v\xEDcio mundial, onde a popula\xE7\xE3o virou escrava desse entretenimento
+      raso de v\xEDdeos curtos, que fazem as pessoas perderem a no\xE7\xE3o do tempo
+      ali investido."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1324769398784
+    m_Localized: "Ap\xF3s anos com o \xEDndice de viol\xEAncia do mundo ao extremo,
+      uma hora tudo colapsou.\r\nTudo se iniciou quando uma idosa e uma gr\xE1vida
+      se desentenderam sobre qual das duas teria a prefer\xEAncia em ocupar o assento
+      do \xF4nibus, as senhoras ent\xE3o entraram em um conflito f\xEDsico, o que
+      acarretou em uma histeria coletiva, aflorando o instinto primitivo das pessoas,
+      dando in\xEDcio a uma guerra civil e futuramente a III Guerra Mundial.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1464091594752
+    m_Localized: "Por anos discutimos sobre a superioridade do capitalismo ou do
+      comunismo, agora temos um modelo econ\xF4mico satisfat\xF3rio, que supre todas
+      as necessidades humanas. Entretanto o mundo ficou seguro e mon\xF3tono demais,
+      levando a um t\xE9dio coletivo, aumentando drasticamente as taxas de suicidio
+      e automutila\xE7\xE3o da popula\xE7\xE3o, atualmente a humanidade reduziu 60%
+      da sua popula\xE7\xE3o devido a essa situa\xE7\xE3o."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1563358187520
+    m_Localized: "A viol\xEAncia chegou a um estado t\xE3o cr\xEDtico, que fez com
+      que as pessoas criassem o costume de agredir animais dom\xE9sticos por divers\xE3o,
+      isso enfureceu os c\xE9us pois esse \xE9 um ato imperdo\xE1vel, fazendo com
+      que a trombeta do apocalipse tocasse e os quatro cavaleiros descem a terra
+      e espalhassem o caos no mundo, torturando eternamente aqueles que agrediram
+      os lindos e fofos animaizinhos indefesos."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1695545872384
+    m_Localized: "Ap\xF3s anos sem viol\xEAncia, o mundo estava, em fim, puro e ideal
+      para a volta de nosso salvador, foi ent\xE3o que os c\xE9us abriram e do meio
+      de uma forte luz, com uma presen\xE7a majestosa, voltaria a terra o homem que
+      guiaria a humanidade a um futuro de luz e riquezas, sem doen\xE7as e sem pecados,
+      onde todos seriam aceitos e amados."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4956470431744
+    m_Localized: Merda...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7011218018304
+    m_Localized: "Caro funcion\xE1rio,\nVoc\xEA causou um apocalipse! \r\nAgradecemos
+      sua colabora\xE7\xE3o. Seus esfor\xE7os salvaram essa timeline de {score} amea\xE7as
+      em potencial!\r\nInfelizmente, voc\xEA e sua timeline ser\xE3o destru\xEDdos.\r\nColete
+      seu pagamento na sa\xEDda."
+    m_Metadata:
+      m_Items:
+      - id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 00d0286d60060000

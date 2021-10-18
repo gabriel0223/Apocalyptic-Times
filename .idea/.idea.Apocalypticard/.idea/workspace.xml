@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c35eaef9-776c-40e1-8700-6b645a8cdd7e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/GJLgame" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/VolumeControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.localization@1.0.0-pre.10/Runtime/Settings/LocalesProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_SubMeshUI.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LanguageSelection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../XP3-EclipseProject/Assets/Scripts/GameManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CardChoice.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Apocalypse.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LocalizationManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../XP3-EclipseProject/Assets/Scripts/DebugStuff.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../XP3-EclipseProject/Assets/Scripts/AudioManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Button.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/CardDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/IndicatorManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/CardChoice.cs" />
+        <option value="$PROJECT_DIR$/Assets/Manual.cs" />
+        <option value="$PROJECT_DIR$/Assets/GrowerButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/ChaosPointer.cs" />
+        <option value="$PROJECT_DIR$/Assets/LightIndicator.cs" />
+        <option value="$PROJECT_DIR$/Assets/CardAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/ManualButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/MenuManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/MenuButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/CardSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/ChoiceButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LightIndicator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChoiceButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardChoice.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ManualButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/ApocalypseDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/ApocalypseButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/ChaosScale.cs" />
+        <option value="$PROJECT_DIR$/Assets/ApocalypseAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/IndicatorBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/ApocalypseMessage.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/ApocalypseSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChaosScale.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardAnimation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IndicatorManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChaosPointer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/LocalizationTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CardDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Card.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Apocalypse.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ApocalypseDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ApocalypseMessage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GrowerButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/VolumeControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/LanguageSelection.cs" />
+        <option value="$PROJECT_DIR$/Assets/LocalizationManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vHjGlafYU22cJoR0LGkg84WjYL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Jam Build\Apocalypticard.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\Documentos\Unity\Apocalypticard\Jam Build" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c35eaef9-776c-40e1-8700-6b645a8cdd7e" name="Default Changelist" comment="" />
+      <created>1626225818720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626225818720</updated>
+      <workItem from="1626225832517" duration="42334000" />
+      <workItem from="1626457792850" duration="42968000" />
+      <workItem from="1627515728335" duration="20962000" />
+      <workItem from="1627849292806" duration="6610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="762" y="220" key="RiderGenerateDialog" timestamp="1626586360894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="762" y="220" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1626586360894" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1626506227723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1626506227723" />
+  </component>
+</project>

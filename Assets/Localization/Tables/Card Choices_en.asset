@@ -1,0 +1,202 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Card Choices_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c1c1263c53a13344d8a925cb7a65fb85, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6268964864
+    m_Localized: Send a team to feed the lion.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208593801216
+    m_Localized: Open the cage for the lion to feed on its own.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19657443037184
+    m_Localized: "Capture Carlos for the safety of the population.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19663709327360
+    m_Localized: "Ignore Carlos, because drugs are cool.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19887257341952
+    m_Localized: 'Hire two more boys beside Gabriel for the mayor''s house.
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19914948136960
+    m_Localized: Stop Gabriel by knocking him off the pole dance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20329131462656
+    m_Localized: Hospitalize Mr. Frederiksen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20341190086656
+    m_Localized: Send a van to help with the kidnapping.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20485365092352
+    m_Localized: Order a team to break Chris' leg.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20507464880128
+    m_Localized: Sabotage Chris in his pre-game tox screen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20845173460992
+    m_Localized: "Send a \u201CHappiness to the Couple\u201D letter."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20856774905856
+    m_Localized: Replace these medications with placebo medications.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21018280775680
+    m_Localized: Laka coca cola, naruto guacamole.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21085855207424
+    m_Localized: Cargobob chevrolet, sharkboy and lavagirl.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21168738848768
+    m_Localized: Burn Mr. Valentine's bakery down.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21193468465152
+    m_Localized: Activate the health surveillance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21321197604864
+    m_Localized: Have the temple and its surroundings set on fire.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21485387829248
+    m_Localized: Start a religion of emperor worship.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21696436817920
+    m_Localized: Help Joana take power from the army.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21728259002368
+    m_Localized: Expose Joana's plans on Reddit.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21847725363200
+    m_Localized: Throw garlic at the patient just in case.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21862124408832
+    m_Localized: Anticipate Dr. Van House's vacation.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22001626959872
+    m_Localized: Encourage all kids to learn kung fu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22017791807488
+    m_Localized: Report Chang to the guardianship council.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22144854052864
+    m_Localized: Deliver the Penguin to Wayne.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22151015485440
+    m_Localized: Increase the duration of the play.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22351192838144
+    m_Localized: Take Tyranno to weekly appointments with a psychologist.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22369043795968
+    m_Localized: Anticipate the meteor crash, because teen stories are tedious.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22668424826880
+    m_Localized: Puncture the truck's tire so that it does not spread garbage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22685806022656
+    m_Localized: Send another garbage truck to collect leftovers on the street.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22888688701440
+    m_Localized: Encourage the mouse to write stories about its hallucinations.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22915356086272
+    m_Localized: Take the rat to rehab, where he will make friends with a duck and
+      a dog.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23050089713664
+    m_Localized: Facilitate the population's access to weapons.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23069236711424
+    m_Localized: Dye the president's hair blonde and end the war.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23207384502272
+    m_Localized: Leave delivery at the entrance to the space base and return home.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23228943224832
+    m_Localized: Throw supplies over the space base wall to ensure delivery.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23361042829312
+    m_Localized: Encourage Sully to be the love of the Amazon skies.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23383796928512
+    m_Localized: Warn Sully's wife about the event.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23561081769984
+    m_Localized: Send the Doctor with the fuel formula to Mars on a food transporter.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23575900246016
+    m_Localized: "Sell \u200B\u200Bthe formula to Russia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23797703430144
+    m_Localized: Unplug prototype serial number 667i9 to reboot.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23809653002240
+    m_Localized: Reset all prototypes in the world that have monogamy as the default
+      rule.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23947867901952
+    m_Localized: HAAA HO HO HO HA HOOO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23963596541952
+    m_Localized: HOOO HA HA HOOO HA HA HO
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1
